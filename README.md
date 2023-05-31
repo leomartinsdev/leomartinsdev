@@ -33,7 +33,6 @@
 
   <h3>My Stats:</h3>
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomartinsdev&theme=dark" />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leomartinsdev)](https://github.com/leomartinsdev/github-readme-stats)
   <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leomartinsdev&theme=dark" />
 <div>
 
