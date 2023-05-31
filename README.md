@@ -27,13 +27,17 @@
   <span><code><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></code></span>
   <span><code><img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /></code></span>
   <span><code><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></code></span>
-
+  
+  <h3>Certificates</h3>
+  <img width="100px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/71168819" />
 
   <h3>My Stats:</h3>
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomartinsdev&theme=dark" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leomartinsdev)](https://github.com/leomartinsdev/github-readme-stats)
   <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leomartinsdev&theme=dark" />
 <div>
 
+ 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leomartinsdev&label=Profile%20views&color=0e75b6&style=flat" alt="leomartinsdev" /> </p>
 -->
