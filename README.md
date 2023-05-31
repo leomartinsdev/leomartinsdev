@@ -31,7 +31,9 @@
   <h3>Certificates</h3>
   <a href="https://www.credential.net/147d92f6-e8e1-4f5c-a0e2-c24688f1b326#gs.uehv2h">🏆 Fundamentals of Web Development</a>
 
-
+  <h3>My Stats:</h3>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomartinsdev&theme=dark" />
+  <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leomartinsdev&theme=dark" />
 
 
 <div>
