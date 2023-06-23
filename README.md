@@ -2,7 +2,7 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Leonardo+Martins)](https://git.io/typing-svg)
   <h3 align="center">I'm 25 and I live in São Paulo - Brazil. I have a BBA (Business Administration) from Insper and I    have a professional background in finance.<br>
-  Currently, I'm studying at Trybe and on the way to become a Fullstack Web Developer.</h3>
+  Currently, I'm studying at Trybe and on the way to become a Full Stack Web Developer.</h3>
 
 
   <h3>You can reach me on:</h3>
