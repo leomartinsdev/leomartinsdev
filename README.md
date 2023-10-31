@@ -38,8 +38,8 @@
   <a href="https://www.credential.net/e2e717fa-00e4-4b89-8324-c7814279d022#gs.514i0h">🏆 Front-end Web Development</a>
 
   <h3>My Stats:</h3>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomartinsdev&theme=dark" />
-  <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leomartinsdev&theme=dark" />
+  <img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomartinsdev&theme=dark" />
+  <img height="auto" width="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leomartinsdev&theme=dark" />
 
 
 <div>
