@@ -37,9 +37,11 @@
   <span><code><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></code></span>
   
   <h3>Certificates</h3>
-  <a href="https://www.credential.net/cbbad3b1-4c9c-47c0-88bc-8f0804c1dc58#gs.3ejkoe">🏆 Computer Science</a><br>
+  <a href="https://www.credential.net/9ff4fc99-88b9-4401-8447-c0e9a3c5ea58">🏆 Elective Certification in C#</a><br>
+  <a href="https://www.credential.net/c648f898-b539-47e9-8192-47c45ff06276#gs.67lsg5">🏆 Full Stack Web Development</a><br>
   <a href="https://www.credential.net/1fde2adb-4d45-409a-87f2-b3e354e9f7b1#gs.1hwhpt">🏆 Back-end Development</a><br>
   <a href="https://www.credential.net/e2e717fa-00e4-4b89-8324-c7814279d022#gs.514i0h">🏆 Front-end Development</a><br>
+  <a href="https://www.credential.net/cbbad3b1-4c9c-47c0-88bc-8f0804c1dc58#gs.3ejkoe">🏆 Computer Science</a><br>
   <a href="https://www.credential.net/147d92f6-e8e1-4f5c-a0e2-c24688f1b326#gs.uehv2h">🏆 Fundamentals of Web Development</a><br>
 
   <h3>My Stats:</h3>
