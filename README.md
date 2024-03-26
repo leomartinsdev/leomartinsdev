@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=5DF7F5&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=75&lines=Leonardo+Martins;Full+Stack+Web+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=5DF7F5&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=75&lines=Leonardo+Martins;Full+Stack+Web+Developer)](https://git.io/typing-svg)
   <h3 align="center">
   <tr>Formações:</tr>
   <li>Ciência da Computação - Universidade Cruzeiro do Sul (2024-2027)</li>
