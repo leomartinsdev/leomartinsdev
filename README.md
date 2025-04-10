@@ -4,8 +4,8 @@
   <h3 align="center">
   <tr>Formações:</tr>
   <li>Ciência da Computação - Universidade Cruzeiro do Sul (2024-2027)</li>
-  <li>Formação em Desenvolvimento Full Stack - Trybe (2023-01/2024)</li>
-  <li>Administração de Empresas - Insper (2105-2019)</li>
+  <li>Formação em Desenvolvimento Full Stack - Trybe (2023-2024)</li>
+  <li>Administração de Empresas - Insper (2015-2019)</li>
   
 
 
